@@ -1,0 +1,236 @@
+﻿  driver.cpp
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(40,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(41,38): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\Driver\driver.cpp(36,18): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(40,37): warning C4838: 从“int”转换到“float”需要收缩转换
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\singleton.h(17): message : 在编译 类 模板 成员函数“T &Singleton<T>::Get(void)”时
+          with
+          [
+              T=RogueCompany::Variables
+          ]
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\Driver\driver.cpp(13): message : 查看对正在编译的函数 模板 实例化“T &Singleton<T>::Get(void)”的引用
+          with
+          [
+              T=RogueCompany::Variables
+          ]
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(16): message : 查看对正在编译的 类 模板 实例化“Singleton<RogueCompany::Variables>”的引用
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(41,38): warning C4838: 从“int”转换到“float”需要收缩转换
+  main.cpp
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(40,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(41,38): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(103,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(122,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(125,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(382,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(383,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\sys.h(4,10): warning C4114: 多次使用同一类型限定符
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: “D2DERR_WRONG_STATE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58181): message : 参见“D2DERR_WRONG_STATE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: “D2DERR_NOT_INITIALIZED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58190): message : 参见“D2DERR_NOT_INITIALIZED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: “D2DERR_UNSUPPORTED_OPERATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58199): message : 参见“D2DERR_UNSUPPORTED_OPERATION”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: “D2DERR_SCANNER_FAILED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58208): message : 参见“D2DERR_SCANNER_FAILED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: “D2DERR_SCREEN_ACCESS_DENIED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58217): message : 参见“D2DERR_SCREEN_ACCESS_DENIED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: “D2DERR_DISPLAY_STATE_INVALID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58226): message : 参见“D2DERR_DISPLAY_STATE_INVALID”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: “D2DERR_ZERO_VECTOR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58235): message : 参见“D2DERR_ZERO_VECTOR”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: “D2DERR_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58244): message : 参见“D2DERR_INTERNAL_ERROR”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: “D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58253): message : 参见“D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: “D2DERR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58262): message : 参见“D2DERR_INVALID_CALL”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: “D2DERR_NO_HARDWARE_DEVICE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58271): message : 参见“D2DERR_NO_HARDWARE_DEVICE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: “D2DERR_RECREATE_TARGET”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58280): message : 参见“D2DERR_RECREATE_TARGET”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: “D2DERR_TOO_MANY_SHADER_ELEMENTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58289): message : 参见“D2DERR_TOO_MANY_SHADER_ELEMENTS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: “D2DERR_SHADER_COMPILE_FAILED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58298): message : 参见“D2DERR_SHADER_COMPILE_FAILED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: “D2DERR_MAX_TEXTURE_SIZE_EXCEEDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58307): message : 参见“D2DERR_MAX_TEXTURE_SIZE_EXCEEDED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: “D2DERR_UNSUPPORTED_VERSION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58316): message : 参见“D2DERR_UNSUPPORTED_VERSION”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: “D2DERR_BAD_NUMBER”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58325): message : 参见“D2DERR_BAD_NUMBER”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: “D2DERR_WRONG_FACTORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58334): message : 参见“D2DERR_WRONG_FACTORY”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: “D2DERR_LAYER_ALREADY_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58343): message : 参见“D2DERR_LAYER_ALREADY_IN_USE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: “D2DERR_POP_CALL_DID_NOT_MATCH_PUSH”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58352): message : 参见“D2DERR_POP_CALL_DID_NOT_MATCH_PUSH”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: “D2DERR_WRONG_RESOURCE_DOMAIN”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58361): message : 参见“D2DERR_WRONG_RESOURCE_DOMAIN”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: “D2DERR_PUSH_POP_UNBALANCED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58370): message : 参见“D2DERR_PUSH_POP_UNBALANCED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: “D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58379): message : 参见“D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: “D2DERR_INCOMPATIBLE_BRUSH_TYPES”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58388): message : 参见“D2DERR_INCOMPATIBLE_BRUSH_TYPES”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: “D2DERR_WIN32_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58397): message : 参见“D2DERR_WIN32_ERROR”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: “D2DERR_TARGET_NOT_GDI_COMPATIBLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58406): message : 参见“D2DERR_TARGET_NOT_GDI_COMPATIBLE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: “D2DERR_TEXT_EFFECT_IS_WRONG_TYPE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58415): message : 参见“D2DERR_TEXT_EFFECT_IS_WRONG_TYPE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: “D2DERR_TEXT_RENDERER_NOT_RELEASED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58424): message : 参见“D2DERR_TEXT_RENDERER_NOT_RELEASED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: “D2DERR_EXCEEDS_MAX_BITMAP_SIZE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58433): message : 参见“D2DERR_EXCEEDS_MAX_BITMAP_SIZE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57616): message : 参见“DXGI_STATUS_OCCLUDED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57625): message : 参见“DXGI_STATUS_CLIPPED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57634): message : 参见“DXGI_STATUS_NO_REDIRECTION”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57643): message : 参见“DXGI_STATUS_NO_DESKTOP_ACCESS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57652): message : 参见“DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57661): message : 参见“DXGI_STATUS_MODE_CHANGED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57670): message : 参见“DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57685): message : 参见“DXGI_ERROR_INVALID_CALL”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57694): message : 参见“DXGI_ERROR_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57703): message : 参见“DXGI_ERROR_MORE_DATA”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57712): message : 参见“DXGI_ERROR_UNSUPPORTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57721): message : 参见“DXGI_ERROR_DEVICE_REMOVED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57730): message : 参见“DXGI_ERROR_DEVICE_HUNG”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57740): message : 参见“DXGI_ERROR_DEVICE_RESET”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57749): message : 参见“DXGI_ERROR_WAS_STILL_DRAWING”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57759): message : 参见“DXGI_ERROR_FRAME_STATISTICS_DISJOINT”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57768): message : 参见“DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57778): message : 参见“DXGI_ERROR_DRIVER_INTERNAL_ERROR”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57787): message : 参见“DXGI_ERROR_NONEXCLUSIVE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57796): message : 参见“DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57806): message : 参见“DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57815): message : 参见“DXGI_ERROR_REMOTE_OUTOFMEMORY”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58083): message : 参见“D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58092): message : 参见“D3D10_ERROR_FILE_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4962,1): warning C4005: “DWRITE_E_FILEFORMAT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58600): message : 参见“DWRITE_E_FILEFORMAT”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4967,1): warning C4005: “DWRITE_E_UNEXPECTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58609): message : 参见“DWRITE_E_UNEXPECTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4972,1): warning C4005: “DWRITE_E_NOFONT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58618): message : 参见“DWRITE_E_NOFONT”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4978,1): warning C4005: “DWRITE_E_FILENOTFOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58627): message : 参见“DWRITE_E_FILENOTFOUND”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4983,1): warning C4005: “DWRITE_E_FILEACCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58636): message : 参见“DWRITE_E_FILEACCESS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4988,1): warning C4005: “DWRITE_E_FONTCOLLECTIONOBSOLETE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58645): message : 参见“DWRITE_E_FONTCOLLECTIONOBSOLETE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dwrite.h(4993,1): warning C4005: “DWRITE_E_ALREADYREGISTERED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58654): message : 参见“DWRITE_E_ALREADYREGISTERED”的前一个定义
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(49,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(66,88): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(71,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(73,137): warning C4267: “参数”: 从“size_t”转换到“UINT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(88,37): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(88,34): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(88,59): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(88,55): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(95,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(95,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(96,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(96,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(105,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(106,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(108,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(108,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(108,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(108,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(109,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(109,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(109,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(109,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(111,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(111,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(111,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(111,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(112,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(112,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(112,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(112,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(114,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(114,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(114,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(114,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(115,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(115,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(115,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(115,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(117,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(117,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(117,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(117,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(118,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(118,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(118,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\overlay.h(118,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(50,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(53,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(86,60): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(215,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(216,93): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(382,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(382,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(382,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(382,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(383,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(383,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(384,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(384,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(388,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(388,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(388,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(388,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(389,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(389,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(390,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(390,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\main.cpp(492,7): warning C4101: “tSize”: 未引用的局部变量
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(40,37): warning C4838: 从“int”转换到“float”需要收缩转换
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\singleton.h(17): message : 在编译 类 模板 成员函数“T &Singleton<T>::Get(void)”时
+          with
+          [
+              T=RogueCompany::Variables
+          ]
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\function.h(146): message : 查看对正在编译的函数 模板 实例化“T &Singleton<T>::Get(void)”的引用
+          with
+          [
+              T=RogueCompany::Variables
+          ]
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(16): message : 查看对正在编译的 类 模板 实例化“Singleton<RogueCompany::Variables>”的引用
+D:\操作\C++项目\SQUAD\A\HackExternal\HackExternal\offset.h(41,38): warning C4838: 从“int”转换到“float”需要收缩转换
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 558 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HackExternal.vcxproj -> D:\操作\C++项目\SQUAD\A\HackExternal\x64\Release\HackExternal.exe
